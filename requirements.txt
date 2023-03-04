@@ -1,0 +1,10 @@
+azure-kusto-data
+azure-kusto-ingest
+azure-storage-blob
+ConfigArgParse
+numpy
+pandas
+fastapi[all]
+uvicorn[standard]
+fastapi_utils
+aiohttp

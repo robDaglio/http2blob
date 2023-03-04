@@ -1,0 +1,11 @@
+venv/
+.idea/
+__pycache__/
+
+poc/
+docs/
+logs/
+tests/
+
+config/defaults.ini
+requirements.txt.old
